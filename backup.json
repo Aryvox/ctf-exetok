@@ -1,0 +1,8 @@
+{
+    "secrets": {},
+    "users": {
+        "admin": {
+            "role": "admin"
+        }
+    }
+}
