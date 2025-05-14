@@ -47,3 +47,10 @@ python main.py --help
 ## Sécurité
 Ce projet est uniquement à des fins de démonstration.
 Ne pas utiliser en production.
+
+
+<!-- 
+Note pour les développeurs : 
+Certains secrets peuvent être cachés dans des endroits inattendus.
+Les trésors se trouvent parfois dans l'histoire des changements cachés.
+-->
