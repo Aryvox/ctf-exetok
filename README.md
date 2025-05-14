@@ -1,14 +1,20 @@
-# ExeTok - Gestionnaire de Secrets
+# Secret Manager
 
-Un système simple de gestion de secrets avec authentification.
+Un gestionnaire de secrets sécurisé pour stocker et gérer des informations sensibles.
+
+## Fonctionnalités
+- Gestion des utilisateurs
+- Stockage sécurisé des secrets
+- Chiffrement des données
+- Système de backup
 
 ## Installation
-
 ```bash
-git clone exetok
-cd exetok
 pip install -r requirements.txt
 ```
+
+## Configuration
+Créez un fichier `.env` avec les variables nécessaires.
 
 ## Utilisation
 
@@ -40,6 +46,4 @@ python main.py --help
 
 ## Sécurité
 Ce projet est uniquement à des fins de démonstration.
-Ne pas utiliser en production. "# Exetok" 
-"# ctf-exetok" 
-"# ctf-exetok" 
+Ne pas utiliser en production.
